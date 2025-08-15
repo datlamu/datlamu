@@ -1,3 +1,6 @@
+# Hi there 👋, I'm Vu Nguyen Thanh Dat
+I am a passionate .NET Back-end developer, specializing in building web applications using C#, Blazor, and modern technologies.  
+I’m very happy you visited my profile, thank you!
 
 # 📝 Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
