@@ -1,10 +1,10 @@
-# Hi👋, I'm Vu Nguyen Thanh Dat
+# Hi👋, I'm Thanh Dat
 I am a passionate .NET Back-end developer, specializing in building web applications using C#, Blazor, and modern technologies.  
 I’m very happy you visited my profile, thank you!
 
 # 📫 Contact With Me
 [<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>](mailto:datthy26@gmail.com)
-[<img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>](https://facebook.com/Datlamu)
+[<img src="https://path-to-your-facebook-icon.png" width="40"/>](https://facebook.com/Datlamu)
 
 
 # 📝 Languages
