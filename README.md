@@ -2,6 +2,10 @@
 I am a passionate .NET Back-end developer, specializing in building web applications using C#, Blazor, and modern technologies.  
 I’m very happy you visited my profile, thank you!
 
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-youremail%40example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:datthy26@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-YourName-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/Datlamu)
+
 # 📝 Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
