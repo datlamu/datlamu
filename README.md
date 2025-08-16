@@ -3,8 +3,8 @@ I am a passionate .NET Back-end developer, specializing in building web applicat
 I’m very happy you visited my profile, thank you!
 
 # 📫 Contact With Me
-[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>](mailto:datthy26@gmail.com)
-[<img src="https://path-to-your-facebook-icon.png" width="40"/>](https://facebook.com/Datlamu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datthy26@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Datlamu)
 
 
 # 📝 Languages
