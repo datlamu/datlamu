@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vu Nguyen Thanh Dat
+# Hi👋, I'm Vu Nguyen Thanh Dat
 I am a passionate .NET Back-end developer, specializing in building web applications using C#, Blazor, and modern technologies.  
 I’m very happy you visited my profile, thank you!
 
