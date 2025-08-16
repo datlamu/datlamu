@@ -1,5 +1,5 @@
 # Hi👋, I'm Thanh Dat
-I am a passionate .NET Back-end developer, specializing in building web applications using C#, Blazor, and modern technologies.  
+I am a passionate .NET Back-end developer, specializing in building web applications using C#, Razor, MVC.  
 I’m very happy you visited my profile, thank you!
 
 # 📫 Contact With Me
